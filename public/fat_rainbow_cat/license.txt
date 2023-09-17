@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fat Rainbow Cat
+* source:	https://sketchfab.com/3d-models/fat-rainbow-cat-6d0eaa4145774c5fb254dcb759d5b29e
+* author:	mRiot (https://sketchfab.com/malgorzatariot)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fat Rainbow Cat" (https://sketchfab.com/3d-models/fat-rainbow-cat-6d0eaa4145774c5fb254dcb759d5b29e) by mRiot (https://sketchfab.com/malgorzatariot) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
