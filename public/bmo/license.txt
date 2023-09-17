@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMO
+* source:	https://sketchfab.com/3d-models/bmo-f45cbd1c3de04600806b3add10532381
+* author:	Alejandra_Amaya (https://sketchfab.com/Alejandra_Amaya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMO" (https://sketchfab.com/3d-models/bmo-f45cbd1c3de04600806b3add10532381) by Alejandra_Amaya (https://sketchfab.com/Alejandra_Amaya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

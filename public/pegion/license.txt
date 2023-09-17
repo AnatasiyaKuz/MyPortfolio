@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pegion
+* source:	https://sketchfab.com/3d-models/pegion-2f6e0a400fb0439a9b64ca7549c51198
+* author:	KOMIRA.studio (https://sketchfab.com/komira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pegion" (https://sketchfab.com/3d-models/pegion-2f6e0a400fb0439a9b64ca7549c51198) by KOMIRA.studio (https://sketchfab.com/komira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
